@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+👋 Hi, I'm Vinod Kumar V<br><br>💻 Java Full Stack Developer | Software Developer <br><br>Welcome to my GitHub profile! I'm passionate about designing and developing scalable, efficient, and user-friendly applications. I enjoy solving programming challenges, exploring new technologies, and building real-world software solutions.<br><br>👨‍💻 About Me<br><br>☕ Aspiring Java Full Stack Developer with a strong foundation in Core Java and Java backend technologies.<br><br>💻 Strong foundation in Java, Core Java, OOP, Collections Framework, and Exception Handling.<br><br>☕ Experienced with backend technologies including JDBC, Servlets, JSP, Hibernate, JPA, Spring Core, Spring MVC and Spring Boot.<br><br>🌐 Skilled in frontend development using HTML5, CSS3, JavaScript and React JS.<br><br>🗄️ Knowledge of database management using MySQL and Oracle SQL.<br><br>🛠️ Familiar with development tools such as Git, GitHub, Eclipse, and VS Code.<br><br>🚀 Hands-on experience developing full-stack applications through projects, internships, and practical training.<br><br>🧠 Solved 200+ coding problems on LeetCode, continuously strengthening my problem-solving and logical thinking skills.
 
-<!--
-**vvinod1006/vvinod1006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iamvinod.18) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/v-vinod-kumar-609297294/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vinodkumar.vrc@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=flat&logo=react) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=flat&logo=apache-tomcat&logoColor=black) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat&logo=Apache%20Maven&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=Hibernate&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=vvinod1006&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=vvinod1006&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=vvinod1006&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=vvinod1006&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
